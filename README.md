@@ -24,7 +24,6 @@ The icon is a gold (`#E3B257`) film camera on a dark background. Files are in [`
 | `icon-512.png`, `icon-192.png` | Web app manifest |
 | `apple-touch-icon.png` (180px) | iOS home screen |
 | `favicon-32.png`, `favicon-16.png`, `../favicon.ico` | Browser tabs |
-| `icon.svg` | Vector source |
 
 ## Note on judging
 
